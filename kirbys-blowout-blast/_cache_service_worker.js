@@ -32,11 +32,11 @@ caches.keys().then(function(cacheNames){
 var PRECACHE_ID='kirbys-blowout-blast-editor';
 var PRECACHE_VERSION='v1';
 var PRECACHE_URLS=[
-	'/savegame-editors/kirbys-blowout-blast/','/savegame-editors/kirbys-blowout-blast/index.html',
-	'/savegame-editors/kirbys-blowout-blast/favicon.png',
-	'/savegame-editors/kirbys-blowout-blast/kirbys-blowout-blast.js',
-	'/savegame-editors/savegame-editor.js',
-	'/savegame-editors/savegame-editor.css'
+	'/kirbys-blowout-blast/','/kirbys-blowout-blast/index.html',
+	'/kirbys-blowout-blast/favicon.png',
+	'/kirbys-blowout-blast/kirbys-blowout-blast.js',
+	'/savegame-editor.js',
+	'/savegame-editor.css'
 ];
 
 

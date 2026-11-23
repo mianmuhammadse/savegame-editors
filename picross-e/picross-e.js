@@ -161,7 +161,7 @@ SavegameEditor={
 		pl = get('puzzle-list');
 		pt = get('picross-template');
 		pl.innerHTML = '';
-		fetch('/savegame-editors/picross-e/versions.json')
+		fetch('/picross-e/versions.json')
 		.then(function(response) {
 			return response.json();
 		}).then(function(data) {

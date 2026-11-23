@@ -32,11 +32,11 @@ caches.keys().then(function(cacheNames){
 var PRECACHE_ID='pokemon-shuffle-editor';
 var PRECACHE_VERSION='v1';
 var PRECACHE_URLS=[
-	'/savegame-editors/pokemon-shuffle/','/savegame-editors/pokemon-shuffle/index.html',
-	'/savegame-editors/pokemon-shuffle/favicon.png',
-	'/savegame-editors/pokemon-shuffle/pokemon-shuffle.js',
-	'/savegame-editors/savegame-editor.js',
-	'/savegame-editors/savegame-editor.css'
+	'/pokemon-shuffle/','/pokemon-shuffle/index.html',
+	'/pokemon-shuffle/favicon.png',
+	'/pokemon-shuffle/pokemon-shuffle.js',
+	'/savegame-editor.js',
+	'/savegame-editor.css'
 ];
 
 

@@ -31,17 +31,17 @@ caches.keys().then( ( cacheNames ) => {
 const PRECACHE_ID = 'the-lego-movie-videogame-editor';
 const PRECACHE_VERSION = 'v1';
 const PRECACHE_URLS = [
-	'/savegame-editors/the-lego-movie-videogame/',
-	'/savegame-editors/the-lego-movie-videogame/index.html',
-	'/savegame-editors/the-lego-movie-videogame/favicon.png',
-	'/savegame-editors/the-lego-movie-videogame/the-lego-movie-videogame.css',
-	'/savegame-editors/the-lego-movie-videogame/the-lego-movie-videogame.js',
-	'/savegame-editors/the-lego-movie-videogame/challenges.webp',
-	'/savegame-editors/the-lego-movie-videogame/characters.webp',
-	'/savegame-editors/the-lego-movie-videogame/data.js',
-	'/savegame-editors/the-lego-movie-videogame/upgrades.webp',
-	'/savegame-editors/savegame-editor.js',
-	'/savegame-editors/savegame-editor.css'
+	'/the-lego-movie-videogame/',
+	'/the-lego-movie-videogame/index.html',
+	'/the-lego-movie-videogame/favicon.png',
+	'/the-lego-movie-videogame/the-lego-movie-videogame.css',
+	'/the-lego-movie-videogame/the-lego-movie-videogame.js',
+	'/the-lego-movie-videogame/challenges.webp',
+	'/the-lego-movie-videogame/characters.webp',
+	'/the-lego-movie-videogame/data.js',
+	'/the-lego-movie-videogame/upgrades.webp',
+	'/savegame-editor.js',
+	'/savegame-editor.css'
 ];
 
 // install event (fired when sw is first installed): opens a new cache

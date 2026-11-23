@@ -32,11 +32,11 @@ caches.keys().then(function(cacheNames){
 var PRECACHE_ID='pokemon-picross-editor';
 var PRECACHE_VERSION='v1';
 var PRECACHE_URLS=[
-	'/savegame-editors/pokemon-picross/','/savegame-editors/pokemon-picross/index.html',
-	'/savegame-editors/pokemon-picross/favicon.png',
-	'/savegame-editors/pokemon-picross/pokemon-picross.js',
-	'/savegame-editors/savegame-editor.js',
-	'/savegame-editors/savegame-editor.css'
+	'/pokemon-picross/','/pokemon-picross/index.html',
+	'/pokemon-picross/favicon.png',
+	'/pokemon-picross/pokemon-picross.js',
+	'/savegame-editor.js',
+	'/savegame-editor.css'
 ];
 
 

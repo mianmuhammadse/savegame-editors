@@ -17,11 +17,11 @@
 var PRECACHE_ID='super-kirby-clash-editor';
 var PRECACHE_VERSION='v3';
 var PRECACHE_URLS=[
-	'/savegame-editors/super-kirby-clash/','/savegame-editors/super-kirby-clash/index.html',
-	'/savegame-editors/super-kirby-clash/favicon.png',
-	'/savegame-editors/super-kirby-clash/super-kirby-clash.js',
-	'/savegame-editors/savegame-editor.js',
-	'/savegame-editors/savegame-editor.css'
+	'/super-kirby-clash/','/super-kirby-clash/index.html',
+	'/super-kirby-clash/favicon.png',
+	'/super-kirby-clash/super-kirby-clash.js',
+	'/savegame-editor.js',
+	'/savegame-editor.css'
 ];
 
 

@@ -32,11 +32,11 @@ caches.keys().then(function(cacheNames){
 var PRECACHE_ID='hyrule-warriors-age-of-calamity-editor';
 var PRECACHE_VERSION='v1c';
 var PRECACHE_URLS=[
-	'/savegame-editors/hyrule-warriors-age-of-calamity/','/savegame-editors/hyrule-warriors-age-of-calamity/index.html',
-	'/savegame-editors/hyrule-warriors-age-of-calamity/favicon.png',
-	'/savegame-editors/hyrule-warriors-age-of-calamity/hyrule-warriors-age-of-calamity.js',
-	'/savegame-editors/savegame-editor.js',
-	'/savegame-editors/savegame-editor.css'
+	'/hyrule-warriors-age-of-calamity/','/hyrule-warriors-age-of-calamity/index.html',
+	'/hyrule-warriors-age-of-calamity/favicon.png',
+	'/hyrule-warriors-age-of-calamity/hyrule-warriors-age-of-calamity.js',
+	'/savegame-editor.js',
+	'/savegame-editor.css'
 ];
 
 

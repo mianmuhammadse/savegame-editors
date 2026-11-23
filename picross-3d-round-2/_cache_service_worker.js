@@ -32,11 +32,11 @@ caches.keys().then(function(cacheNames){
 var PRECACHE_ID='picross-3d-round-2-editor';
 var PRECACHE_VERSION='v1';
 var PRECACHE_URLS=[
-	'/savegame-editors/picross-3d-round-2/','/savegame-editors/picross-3d-round-2/index.html',
-	'/savegame-editors/picross-3d-round-2/favicon.png',
-	'/savegame-editors/picross-3d-round-2/picross-3d-round-2.js',
-	'/savegame-editors/savegame-editor.js',
-	'/savegame-editors/savegame-editor.css'
+	'/picross-3d-round-2/','/picross-3d-round-2/index.html',
+	'/picross-3d-round-2/favicon.png',
+	'/picross-3d-round-2/picross-3d-round-2.js',
+	'/savegame-editor.js',
+	'/savegame-editor.css'
 ];
 
 

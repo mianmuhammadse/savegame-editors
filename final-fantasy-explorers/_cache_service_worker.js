@@ -32,13 +32,13 @@ caches.keys().then(function(cacheNames){
 var PRECACHE_ID='final-fantasy-explorers-editor';
 var PRECACHE_VERSION='v1';
 var PRECACHE_URLS=[
-	'/savegame-editors/final-fantasy-explorers/','/savegame-editors/final-fantasy-explorers/index.html',
-	'/savegame-editors/final-fantasy-explorers/database.js',
-	'/savegame-editors/final-fantasy-explorers/favicon.png',
-	'/savegame-editors/final-fantasy-explorers/final-fantasy-explorers.js',
-	'/savegame-editors/final-fantasy-explorers/icons.png',
-	'/savegame-editors/savegame-editor.js',
-	'/savegame-editors/savegame-editor.css'
+	'/final-fantasy-explorers/','/final-fantasy-explorers/index.html',
+	'/final-fantasy-explorers/database.js',
+	'/final-fantasy-explorers/favicon.png',
+	'/final-fantasy-explorers/final-fantasy-explorers.js',
+	'/final-fantasy-explorers/icons.png',
+	'/savegame-editor.js',
+	'/savegame-editor.css'
 ];
 
 

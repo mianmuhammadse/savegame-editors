@@ -32,11 +32,11 @@ caches.keys().then(function(cacheNames){
 var PRECACHE_ID='smash-bros-ultimate-editor';
 var PRECACHE_VERSION='v1c';
 var PRECACHE_URLS=[
-	'/savegame-editors/smash-bros-ultimate/','/savegame-editors/smash-bros-ultimate/index.html',
-	'/savegame-editors/smash-bros-ultimate/favicon.png',
-	'/savegame-editors/smash-bros-ultimate/smash-bros-ultimate.js',
-	'/savegame-editors/savegame-editor.js',
-	'/savegame-editors/savegame-editor.css'
+	'/smash-bros-ultimate/','/smash-bros-ultimate/index.html',
+	'/smash-bros-ultimate/favicon.png',
+	'/smash-bros-ultimate/smash-bros-ultimate.js',
+	'/savegame-editor.js',
+	'/savegame-editor.css'
 ];
 
 

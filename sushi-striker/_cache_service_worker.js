@@ -32,11 +32,11 @@ caches.keys().then(function(cacheNames){
 var PRECACHE_ID='sushi-striker-editor';
 var PRECACHE_VERSION='v2';
 var PRECACHE_URLS=[
-	'/savegame-editors/sushi-striker/','/savegame-editors/sushi-striker/index.html',
-	'/savegame-editors/sushi-striker/favicon.png',
-	'/savegame-editors/sushi-striker/sushi-striker.js',
-	'/savegame-editors/savegame-editor.js',
-	'/savegame-editors/savegame-editor.css'
+	'/sushi-striker/','/sushi-striker/index.html',
+	'/sushi-striker/favicon.png',
+	'/sushi-striker/sushi-striker.js',
+	'/savegame-editor.js',
+	'/savegame-editor.css'
 ];
 
 

@@ -32,11 +32,11 @@ caches.keys().then(function(cacheNames){
 var PRECACHE_ID='mario-kart-7-editor';
 var PRECACHE_VERSION='v1';
 var PRECACHE_URLS=[
-	'/savegame-editors/mario-kart-7/','/savegame-editors/mario-kart-7/index.html',
-	'/savegame-editors/mario-kart-7/favicon.png',
-	'/savegame-editors/mario-kart-7/mario-kart-7.js',
-	'/savegame-editors/savegame-editor.js',
-	'/savegame-editors/savegame-editor.css'
+	'/mario-kart-7/','/mario-kart-7/index.html',
+	'/mario-kart-7/favicon.png',
+	'/mario-kart-7/mario-kart-7.js',
+	'/savegame-editor.js',
+	'/savegame-editor.css'
 ];
 
 

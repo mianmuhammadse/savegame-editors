@@ -19,7 +19,7 @@
 			if(location.protocol==='http:' && FORCE_HTTPS)
 				location.replace(window.location.href.replace('http:','https:'));
 			else if(location.protocol==='https:' && 'serviceWorker' in navigator)
-				navigator.serviceWorker.register('/savegame-editors/the-lego-movie-videogame/_cache_service_worker.js', {scope: '/savegame-editors/the-lego-movie-videogame/'});
+				navigator.serviceWorker.register('/the-lego-movie-videogame/_cache_service_worker.js', {scope: '/the-lego-movie-videogame/'});
 		}, false);
 	--></script>
 </head>

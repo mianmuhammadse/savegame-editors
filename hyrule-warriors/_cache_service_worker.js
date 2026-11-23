@@ -32,11 +32,11 @@ caches.keys().then(function(cacheNames){
 var PRECACHE_ID='hyrule-warriors-editor';
 var PRECACHE_VERSION='v1';
 var PRECACHE_URLS=[
-	'/savegame-editors/hyrule-warriors/','/savegame-editors/hyrule-warriors/index.html',
-	'/savegame-editors/hyrule-warriors/favicon.png',
-	'/savegame-editors/hyrule-warriors/hyrule-warriors.js',
-	'/savegame-editors/savegame-editor.js',
-	'/savegame-editors/savegame-editor.css'
+	'/hyrule-warriors/','/hyrule-warriors/index.html',
+	'/hyrule-warriors/favicon.png',
+	'/hyrule-warriors/hyrule-warriors.js',
+	'/savegame-editor.js',
+	'/savegame-editor.css'
 ];
 
 

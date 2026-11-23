@@ -17,7 +17,7 @@
 			if(location.protocol==='http:' && FORCE_HTTPS)
 				location.replace(window.location.href.replace('http:','https:'));
 			else if(location.protocol==='https:' && 'serviceWorker' in navigator)
-				navigator.serviceWorker.register('/savegame-editors/rhythm-paradise-megamix/_cache_service_worker.js', {scope: '/savegame-editors/rhythm-paradise-megamix/'});
+				navigator.serviceWorker.register('/rhythm-paradise-megamix/_cache_service_worker.js', {scope: '/rhythm-paradise-megamix/'});
 		}, false);
 	--></script>
 </head>

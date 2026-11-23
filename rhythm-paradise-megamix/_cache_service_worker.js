@@ -32,11 +32,11 @@ caches.keys().then(function(cacheNames){
 var PRECACHE_ID='rhythm-paradise-megamix-editor';
 var PRECACHE_VERSION='v1';
 var PRECACHE_URLS=[
-	'/savegame-editors/rhythm-paradise-megamix/','/savegame-editors/rhythm-paradise-megamix/index.html',
-	'/savegame-editors/rhythm-paradise-megamix/favicon.png',
-	'/savegame-editors/rhythm-paradise-megamix/rhythm-paradise-megamix.js',
-	'/savegame-editors/savegame-editor.js',
-	'/savegame-editors/savegame-editor.css'
+	'/rhythm-paradise-megamix/','/rhythm-paradise-megamix/index.html',
+	'/rhythm-paradise-megamix/favicon.png',
+	'/rhythm-paradise-megamix/rhythm-paradise-megamix.js',
+	'/savegame-editor.js',
+	'/savegame-editor.css'
 ];
 
 

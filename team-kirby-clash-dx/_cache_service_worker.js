@@ -32,11 +32,11 @@ caches.keys().then(function(cacheNames){
 var PRECACHE_ID='team-kirby-clash-dx-editor';
 var PRECACHE_VERSION='v1';
 var PRECACHE_URLS=[
-	'/savegame-editors/team-kirby-clash-dx/','/savegame-editors/team-kirby-clash-dx/index.html',
-	'/savegame-editors/team-kirby-clash-dx/favicon.png',
-	'/savegame-editors/team-kirby-clash-dx/team-kirby-clash-dx.js',
-	'/savegame-editors/savegame-editor.js',
-	'/savegame-editors/savegame-editor.css'
+	'/team-kirby-clash-dx/','/team-kirby-clash-dx/index.html',
+	'/team-kirby-clash-dx/favicon.png',
+	'/team-kirby-clash-dx/team-kirby-clash-dx.js',
+	'/savegame-editor.js',
+	'/savegame-editor.css'
 ];
 
 

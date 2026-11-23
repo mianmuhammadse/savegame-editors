@@ -31,16 +31,16 @@ caches.keys().then( ( cacheNames ) => {
 const PRECACHE_ID = 'nintendogs+cats-editor';
 const PRECACHE_VERSION = 'v1';
 const PRECACHE_URLS = [
-	'/savegame-editors/nintendogs+cats/',
-	'/savegame-editors/nintendogs+cats/index.html',
-	'/savegame-editors/nintendogs+cats/favicon.png',
-	'/savegame-editors/nintendogs+cats/nintendogs+cats.js',
-	'/savegame-editors/nintendogs+cats/items.js',
-	'/savegame-editors/nintendogs+cats/personalities.js',
-	'/savegame-editors/nintendogs+cats/dialog.js',
-	'/savegame-editors/nintendogs+cats/dialog.css',
-	'/savegame-editors/savegame-editor.js',
-	'/savegame-editors/savegame-editor.css'
+	'/nintendogs+cats/',
+	'/nintendogs+cats/index.html',
+	'/nintendogs+cats/favicon.png',
+	'/nintendogs+cats/nintendogs+cats.js',
+	'/nintendogs+cats/items.js',
+	'/nintendogs+cats/personalities.js',
+	'/nintendogs+cats/dialog.js',
+	'/nintendogs+cats/dialog.css',
+	'/savegame-editor.js',
+	'/savegame-editor.css'
 ];
 
 // install event (fired when sw is first installed): opens a new cache

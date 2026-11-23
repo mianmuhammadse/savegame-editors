@@ -32,11 +32,11 @@ caches.keys().then(function(cacheNames){
 var PRECACHE_ID='streetpass-mii-plaza-editor';
 var PRECACHE_VERSION='v1';
 var PRECACHE_URLS=[
-	'/savegame-editors/streetpass-mii-plaza/','/savegame-editors/streetpass-mii-plaza/index.html',
-	'/savegame-editors/streetpass-mii-plaza/favicon.png',
-	'/savegame-editors/streetpass-mii-plaza/streetpass-mii-plaza.js',
-	'/savegame-editors/savegame-editor.js',
-	'/savegame-editors/savegame-editor.css'
+	'/streetpass-mii-plaza/','/streetpass-mii-plaza/index.html',
+	'/streetpass-mii-plaza/favicon.png',
+	'/streetpass-mii-plaza/streetpass-mii-plaza.js',
+	'/savegame-editor.js',
+	'/savegame-editor.css'
 ];
 
 
